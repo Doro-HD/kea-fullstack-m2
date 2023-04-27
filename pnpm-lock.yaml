@@ -1,0 +1,13 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  nodemailer:
+    specifier: ^6.9.1
+    version: 6.9.1
+
+packages:
+
+  /nodemailer@6.9.1:
+    resolution: {integrity: sha512-qHw7dOiU5UKNnQpXktdgQ1d3OFgRAekuvbJLcdG5dnEo/GtcTHRYM7+UfJARdOFU9WUQO8OiIamgWPmiSFHYAA==}
+    engines: {node: '>=6.0.0'}
+    dev: false
